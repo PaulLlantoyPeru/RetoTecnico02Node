@@ -1,0 +1,40 @@
+{
+  "name": "cobranza-project-api",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "serve": "nodemon ./index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "sequelize",
+    "mysql"
+  ],
+  "author": "Ricardo Balvin Esteban",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "exceljs": "^4.1.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.1.1",
+    "glob": "^7.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
+    "path": "^0.12.7",
+    "react-native-flash-message": "^0.1.23",
+    "sequelize": "^6.3.4",
+    "uuid-v4": "^0.1.0"
+  }
+}

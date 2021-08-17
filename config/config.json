@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "paul",
+    "password": "paul123",
+    "database": "reto02",
+    "host": "localhost:8080",
+    "dialect": "mysql"
+  }
+}
